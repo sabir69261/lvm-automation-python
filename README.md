@@ -1,1 +1,1 @@
-# lvm-python
+# Automating LVM Partition using Python-Script.
